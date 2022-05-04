@@ -12,3 +12,7 @@ Python智力游戏
 
 波表噪声生成器+CPU检测(使用Juce)
 
+[GitHub](https://github.com/Aislandz/NoizGen)
+
+[Website](https://aislandz.github.io/NoizGen)
+
